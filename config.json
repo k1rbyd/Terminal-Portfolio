@@ -1,0 +1,105 @@
+{
+"ascii": [ 
+
+"██╗  ██╗  █████╗  ██╗   ██╗ ███████╗ ██╗  ██╗ ██╗ ██╗  ██╗ ",
+"██║ ██╔╝ ██╔══██╗ ██║   ██║ ██╔════╝ ██║  ██║ ██║ ██║ ██╔╝ ",
+"█████╔╝  ███████║ ██║   ██║ ███████╗ ███████║ ██║ █████╔╝  ",
+"██╔═██╗  ██╔══██║ ██║   ██║ ╚════██║ ██╔══██║ ██║ ██╔═██╗  ",
+"██║  ██╗ ██║  ██║ ╚██████╔╝ ███████║ ██║  ██║ ██║ ██║  ██╗ ",
+"╚═╝  ╚═╝ ╚═╝  ╚═╝  ╚═════╝  ╚══════╝ ╚═╝  ╚═╝ ╚═╝ ╚═╝  ╚═╝ "
+                                                  
+],
+  "title": "My Portfolio",
+  "username": "user",
+  "hostname": "kaushik",
+  "password": "00000",
+  "repoLink": "https://github.com/k1rbyd/Terminal-Portfolio",
+  "social": {
+    "email": "kirbysasuke@gmail.com",
+    "github": "k1rbyd",
+    "linkedin": "-kaushik-"
+  },
+  "aboutGreeting": "Hello there! I'm Kaushik, currently an undergrad at VIT Vellore pursuing CSE",
+  "projects": [
+    [
+      "2D Platformer Portfolio",
+      "An interactive 2D platformer that allows players to explore and engage with my portfolio by roaming and interacting with objects",
+      "https://github.com/k1rbyd/Portfolio-Game"
+    ],
+    [
+      "Tic Tac Toe (using RL)",
+      "An AI model that learns through reinforcement learning to become a skilled game player, engaging and improving by playing with the user",
+      "https://github.com/k1rbyd/Tic-Tac-Toe-with-RL"
+    ],
+    [
+      "Payout",
+      "A website developed during my internship at Paysharp",
+      "https://github.com/k1rbyd/PayOut"
+    ],
+    [
+      "Mini Projects",
+      "A collection of my one-night or one-week projects",
+      "https://github.com/k1rbyd/Lunar-Pursuits"
+    ],
+    [
+      "Code Practice",
+      "Collection of normal programs demonstrating 6 years of coding experience in various languages",
+      "https://github.com/k1rbyd/Code-Harbor"
+    
+    ]
+  ],
+  "contributions": [
+    [
+      "Kaggle Datasets Expert",
+      "Providing Clean and Ready-To-Use Datasets",
+      "https://www.kaggle.com/kirbysasuke"
+    ],
+    [
+      "Evolve - Game",
+      "Contributed in Game Deployment and Testing",
+      "https://github.com/pmotschmann/Evolve"
+    ]
+  ],
+  "achievements" : [
+    [
+      "SIH '24",
+      "Chosen as one of a select few teams to represent VIT at the national level"
+    ],
+    [
+      "StartUpStreet '22",
+      "Secured 2nd place for our startup idea"
+    ],
+    [
+      "Paper2Product (VIT Gravitas Event)",
+      "Emerged as Runners from a 48 hour hackathon"
+    ]
+  ],
+    
+
+    "colors": {
+      "background": "#1E1E1E",
+      "foreground": "#EAEAEA",
+      "banner": "#FF5C5C",
+      "border": {
+        "visible": true,
+        "color": "#FF5C5C"
+      },
+      "prompt": {
+        "default": "#A9A9A9",
+        "user": "#4BBF6B",
+        "host": "#4A90E2",
+        "input": "#4BBF6B"
+      },
+      "link": {
+        "text": "#FF5C5C",
+        "highlightColor": "#A3D1E6",
+        "highlightText": "#FFFFFF",
+        "highlightStyle": "bold"
+      },
+      "commands": {
+        "textColor": "#4BBF6B"
+      }
+    }
+
+  
+}

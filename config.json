@@ -22,9 +22,24 @@
   "aboutGreeting": "Hello there! I'm Kaushik, currently an undergrad at VIT Vellore pursuing CSE",
   "projects": [
     [
+      "Multi-User Chat Application",
+      "This Python-based chat application allows multiple users to communicate with each other through a single server - hosted locally or online",
+      "https://github.com/k1rbyd/Multi-Chat"
+    ],
+    [
+      "Blockz - Legder-Based UPI Transaction",
+      "Blockz is a simulated UPI transaction system enabling secure user registration, login, money transfers, real-time balance management, and transaction history tracking to mimic real-world online banking",
+      "https://github.com/k1rbyd/UPI-Transaction"
+    ],
+    [
       "2D Platformer Portfolio",
       "An interactive 2D platformer that allows players to explore and engage with my portfolio by roaming and interacting with objects",
       "https://github.com/k1rbyd/Portfolio-Game"
+    ],
+    [
+      "System Monitoring Dashboard",
+      "A real-time System Monitoring Dashboard built with Python, Dash, and Plotly, featuring CPU, memory, disk, network, battery, and process stats with a light/dark mode toggle",
+      "https://github.com/k1rbyd/System-Monitoring-Dashboard"
     ],
     [
       "Tic Tac Toe (using RL)",
@@ -35,17 +50,6 @@
       "Payout",
       "A website developed during my internship at Paysharp",
       "https://github.com/k1rbyd/PayOut"
-    ],
-    [
-      "Mini Projects",
-      "A collection of my one-night or one-week projects",
-      "https://github.com/k1rbyd/Lunar-Pursuits"
-    ],
-    [
-      "Code Practice",
-      "Collection of normal programs demonstrating 6 years of coding experience in various languages",
-      "https://github.com/k1rbyd/Code-Harbor"
-    
     ]
   ],
   "contributions": [
@@ -61,6 +65,10 @@
     ]
   ],
   "achievements" : [
+    [
+      "Cisco Internship (2025)",
+      "Selected as a Software Engineering Intern with monthly stipend to work on real-world networking and system-level projects"
+    ],
     [
       "SIH '24",
       "Chosen as one of a select few teams to represent VIT at the national level"

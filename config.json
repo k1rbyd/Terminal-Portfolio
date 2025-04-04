@@ -24,22 +24,17 @@
     [
       "MacSync Chat",
       "This Python-based chat application allows multiple Mac users to communicate with each other through a single server - hosted locally or online",
-      "https://github.com/k1rbyd/Multi-Chat"
+      "https://github.com/k1rbyd/MacSync-Chat"
     ],
     [
       "Blockz LedgerPay",
       "Blockz simulates UPI with secure sign-up, login, transfers, live balance, and history—mimicking real-world online banking.",
-      "https://github.com/k1rbyd/UPI-Transaction"
-    ],
-    [
-      "2D Platformer Portfolio",
-      "An interactive 2D platformer that allows players to explore and engage with my portfolio by roaming and interacting with objects",
-      "https://github.com/k1rbyd/Portfolio-Game"
+      "https://github.com/k1rbyd/Blockz-LedgerPay"
     ],
     [
       "CoreWatch Monitoring",
       "Real-time System Monitor built with Python, Dash & Plotly showing CPU, RAM, disk, network, battery & process stats with theme toggle.",
-      "https://github.com/k1rbyd/System-Monitoring-Dashboard"
+      "https://github.com/k1rbyd/CoreWatch-Monitoring"
     ],
     [
       "Tic Tac Toe (using RL)",
@@ -50,6 +45,11 @@
       "Payout",
       "A website developed during my internship at Paysharp",
       "https://github.com/k1rbyd/PayOut"
+    ],
+    [
+      "2D Platformer Portfolio",
+      "An interactive 2D platformer that allows players to explore and engage with my portfolio by roaming and interacting with objects",
+      "https://github.com/k1rbyd/Portfolio-Game"
     ]
   ],
     "contributions": [
@@ -66,7 +66,7 @@
     ],
     "achievements" : [
       [
-        "Cisco Summer Internship (2025)",
+        "Cisco Summer Intern '25",
         "Selected as a Software Engineering Intern with monthly stipend to work on real-world networking and system-level projects"
       ],
       [
